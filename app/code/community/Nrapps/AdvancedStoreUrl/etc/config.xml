@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Nrapps_AdvancedStoreUrl>
+            <version>0.1.0</version>
+        </Nrapps_AdvancedStoreUrl>
+    </modules>  
+    <global>
+        <models>
+            <nrapps_advancedstoreurl>
+               <class>Nrapps_AdvancedStoreUrl_Model</class>
+            </nrapps_advancedstoreurl>
+        </models>
+        <cms>
+            <page>
+                <tempate_filter>nrapps_advancedstoreurl/template_filter</tempate_filter>
+            </page>
+            <block>
+                <tempate_filter>nrapps_advancedstoreurl/template_filter</tempate_filter>
+            </block>
+        </cms>
+    </global>
+</config>

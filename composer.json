@@ -1,0 +1,14 @@
+{
+  "name": "nrapps/advancedstoreurl",
+  "license": ["OSL-3.0"],
+  "type": "magento-module",
+  "description": "This module adds a new cms template filter directive storeurl with extended parameters",
+  "homepage": "http://de.nr-apps.com/blog/2013/01/16/magento-store-url-template-directive/",
+  "authors":[{
+      "name": "Christoph",
+      "email": "christoph.assmann@netresearch.de"
+  }],
+  "require": {
+      "magento-hackathon/magento-composer-installer": "*"
+  }
+}
