@@ -1,5 +1,5 @@
 <?php
-class Nrapps_AdvancedStoreUrl_Model_Model_Template_Filter extends Mage_Widget_Model_Template_Filter
+class Nrapps_AdvancedStoreUrl_Model_Template_Filter extends Mage_Widget_Model_Template_Filter
 {
     /**
     * Add possibility to cross link between stores and protocols.
